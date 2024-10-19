@@ -1,0 +1,14 @@
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/bin/Debug/net8.0/RecipeManager
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/bin/Debug/net8.0/RecipeManager.deps.json
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/bin/Debug/net8.0/RecipeManager.runtimeconfig.json
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/bin/Debug/net8.0/RecipeManager.dll
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/bin/Debug/net8.0/RecipeManager.pdb
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.AssemblyInfoInputs.cache
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.AssemblyInfo.cs
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.csproj.CoreCompileInputs.cache
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.dll
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/refint/RecipeManager.dll
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.pdb
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/RecipeManager.genruntimeconfig.cache
+/Users/ariannamihu/Desktop/School/cse310/recipe_manager/RecipeManager/obj/Debug/net8.0/ref/RecipeManager.dll
